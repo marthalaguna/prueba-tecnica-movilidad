@@ -49,7 +49,6 @@ prueba-tecnica-movilidad/
 ---
 
  ## Ver video explicativo en google drive: https://drive.google.com/file/d/1LMQ5bWr2qiXqKYNelLpDczB0Ceb38ago/view?usp=sharing
+---
 
- ---
-
- ## Ver presentación en google drive https://drive.google.com/file/d/1944Mq2ebsLMUzmzQ2PXLn5-x5bvuHyVj/view?usp=drive_link
+ ## Ver presentación en google drive: https://drive.google.com/file/d/1944Mq2ebsLMUzmzQ2PXLn5-x5bvuHyVj/view?usp=sharing
