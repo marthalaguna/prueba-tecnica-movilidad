@@ -1,5 +1,5 @@
 ## Prueba-Tecnica-SimonMovilidad
-Este proyecto es parte de una prueba técnica para validar funcionalidades críticas de una plataforma de monitoreo GPS en tiempo real, utilizando pruebas automatizadas con herramientas open-source.
+Este proyecto es parte de una prueba técnica para validar funcionalidades críticas de una plataforma de monitoreo GPS, utilizando pruebas automatizadas con herramientas open-source.
 
 ---
 ## Funcionalidades Cubiertas
